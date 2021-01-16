@@ -7,7 +7,6 @@ sections:
 - type: document
   path: about
   label: About Me
-  match: "**/*"
 - type: directory
   path: docs/_posts
   label: Posts
